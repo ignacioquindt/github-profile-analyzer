@@ -25,36 +25,6 @@ This project was built following industry-standard software engineering principl
 *   **Component-Based:** Modular React components for high reusability and maintainability.
 *   **Encapsulation:** Logic and styling are separated to maintain a clean codebase.
 
-## 🛠️ Tech Stack
-
-*   **Frontend:** React 18, TypeScript, Vite
-*   **Styling:** Modern CSS (Custom properties, Blur effects)
-*   **API:** GitHub REST API
-
-## 🏁 How to Run Locally
-
-1.  **Clone the project:**
-    ```bash
-    cd git-profile-analyzer
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Open in Browser:**
-    Go to `http://localhost:5173`
-
----
-
-> This project serves as a demonstration of technical skills in **Fullstack Development**, **OOP with TypeScript**, and **Modern UI/UX Design**.
-
 ---
 
 # 🇪🇸 Analizador de Perfiles GitHub
@@ -84,26 +54,4 @@ Este proyecto fue construido siguiendo los estándares de la industria en ingeni
 *   **Estilos:** CSS Moderno (Propiedades personalizadas, efectos de desenfoque)
 *   **API:** GitHub REST API
 
-## 🏁 Cómo ejecutar localmente
-
-1.  **Clonar el proyecto:**
-    ```bash
-    cd git-profile-analyzer
-    ```
-
-2.  **Instalar dependencias:**
-    ```bash
-    npm install
-    ```
-
-3.  **Ejecutar el servidor de desarrollo:**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Abrir en el navegador:**
-    Ve a `http://localhost:5173`
-
 ---
-
-> Este proyecto sirve como demostración de habilidades técnicas en **Desarrollo Fullstack**, **POO con TypeScript** y **Diseño UI/UX Moderno**.
